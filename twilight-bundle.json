@@ -1,0 +1,14 @@
+{
+    "name": {
+        "ar": "mango",
+        "en": "mango"
+    },
+    "description": {
+        "ar": "",
+        "en": ""
+    },
+    "author_email": "Hassan.alhadi1@hotmail.com",
+    "support_url": "",
+    "repository": "https://github.com/HassanAlhadi/tw-mango",
+    "components": []
+}
